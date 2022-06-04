@@ -1,2 +1,2 @@
 # iou
-An IOU tracking system.  Using Rust/Rocket/sqlx.
+An IOU tracking system.  Using Rust/Rocket/SQLx.
